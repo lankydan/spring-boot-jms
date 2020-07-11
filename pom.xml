@@ -11,7 +11,9 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.2.RELEASE</version>
+<!--        <version>1.5.2.RELEASE</version>-->
+        <!-- Originally written using [1.5.2.RELEASE], nothing has needed to change code wise between these versions -->
+        <version>2.3.1.RELEASE</version>
     </parent>
 
     <properties>
